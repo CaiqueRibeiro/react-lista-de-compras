@@ -1,0 +1,10 @@
+.page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.new-list-container {
+    width: 80%;
+}
